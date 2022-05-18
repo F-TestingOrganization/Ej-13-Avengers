@@ -17,3 +17,5 @@
 * Wasp
 * Antman
 * Nick Fury
+* Leon O
+* Chitara
